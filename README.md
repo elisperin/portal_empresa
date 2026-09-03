@@ -1,59 +1,48 @@
 # LOLIS Travel - Viagem de Formatura
 
-## O que é?
+## Sobre o projeto
 
-Este projeto foi feito como uma atividade de HTML, onde fizemos ela em dupla 
-A empresa criada foi a LOLIS Travel e o tema do site é uma viagem de formatura para Porto Seguro, inspirado no site de viagem de formatura da Amaze.
+Este projeto foi criado para representar o site de uma empresa de viagens de formatura chamada **LOLIS Travel**.
 
-A página mostra algumas informações sobre o destino, programação dos dias da viagem, experiências e o contato.
+A ideia foi criar uma página simples para apresentar a viagem, o destino, a programação dos dias e algumas informações importantes para os estudantes.
 
-## Objetivo
+## Sobre a viagem
 
-O objetivo do projeto foi colocar em prática o que foi aprendido sobre HTML e CSS
+O destino escolhido foi **Porto Seguro - Bahia**.
 
-## Tecnologias usadas
+A viagem foi organizada pensando em momentos de diversão com a turma, incluindo dias de praia, passeios, atividades de lazer e uma festa de despedida.
 
-- HTML5
-- CSS3
+## O que tem no site
 
-## Site
-
-Na página foram colocadas:
-
-- Informações sobre a viagem
-- Destino
-- Imagens
+- Informações sobre a LOLIS Travel
+- Destino da viagem
 - Programação dos 7 dias
-- Praias e passeios
-- Informações sobre as festas
-- Localização no Google Maps
-- Informações de contato
+- Horários das atividades
+- Informações sobre a viagem
+- Contato da empresa
 
 ## Estrutura utilizada
 
-HTML:
+Durante a criação da página foram utilizados elementos semânticos do HTML, como:
 
-- `header` 
-- `nav` 
-- `section` 
-- `article` 
-- `footer` 
+- header
+- nav
+- section
+- article
+- aside
+- footer
 
-## Programação da viagem
+Também foram utilizados títulos, parágrafos e links para organizar melhor as informações.
 
-A programação foi organizada em 7 dias:
+## Objetivo
 
-1. Chegada
-2. Praia
-3. Passeio
-4. Diversão
-5. Festa
-6. Último dia
-7. Volta
+O objetivo do projeto foi colocar em prática o que aprendemos sobre **HTML semântico** e organização de uma página.
 
-## Destino
+Também buscamos deixar o conteúdo simples e fácil de entender para quem estiver acessando o site.
 
-O destino escolhido foi Porto Seguro, na Bahia.
+## Integrantes
 
-A escolha foi feita pensando em um lugar que tivesse praias, passeios e opções de diversão para uma viagem de formatura marcante.
+**Eloá Muniz**  
+**Elis**
 
+Projeto desenvolvido para atividade do curso de Desenvolvimento de Sistemas.
